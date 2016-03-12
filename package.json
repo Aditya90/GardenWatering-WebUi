@@ -1,0 +1,24 @@
+{
+  "name": "particle-photon-client",
+  "version": "0.0.1",
+  "description": "Client app for Particle Photon IOT device. https://www.particle.io/",
+  "main": "index.html",
+  "dependencies": {
+    "cordova": "^5.4.1",
+    "ionic": "^1.7.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsanth/particle-photon-client.git"
+  },
+  "author": "Aditya Sreekumar, Santhosh Kumar Bala Krishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsanth/particle-photon-client/issues"
+  },
+  "homepage": "https://github.com/bsanth/particle-photon-client#readme"
+}
